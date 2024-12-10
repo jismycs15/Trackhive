@@ -1,0 +1,40 @@
+.navbar {
+    /* height:6rem; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #d41616;
+    padding: 2rem 2rem ;
+  }
+  
+  .navbar-list {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    /* padding: 0; */
+  }
+  
+  .navbar-list li {
+    margin-right: 1.5rem;
+    /* padding: 1 rem 1.5 rem ; */
+
+  }
+  
+  .navbar-list a {
+    color: white;
+    text-decoration: none;
+    font-size: 1rem;
+  }
+  
+  .navbar-list a:hover {
+    color: burlywood;
+  }
+
+  .admin{
+    /* margin-right: 10px; */
+    color: white;
+  }
+  .imag{
+    color: azure;
+  }
+  

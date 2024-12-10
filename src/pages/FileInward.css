@@ -1,0 +1,74 @@
+.First-div {
+    display: flex;
+    flex-direction: column;
+    width: 230px;
+    height: 80px;
+    /* gap: 8px; */
+}
+
+/* .name {
+    marginLeft:"10px";
+    padding: "5px";
+    display: flex;
+}
+.second{
+    marginBottom: "10px";
+    display: flex; } 
+        
+.button {
+    padding: "5px 10px" 
+}  
+.for{
+    margin-top: 100px;
+    background-color: azure;
+    display: flex;
+} */
+
+.for {
+   background-color: rgb(232, 239, 243);
+    width: 80%;
+    justify-content: center;
+    /* margin: auto; */
+    padding: 60px;
+    border-radius: 15px;
+}
+
+.main-div {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: center;
+}
+
+.outer-div {
+    width: 100%;
+    height: auto;
+    background-color: rgb(232, 227, 227);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: auto;
+    padding: 20px;
+    border-radius: 5px;
+    align-items: center;
+}
+
+
+.email {
+    height: 2vw;
+}
+
+.emailselect {
+    height: 32px;
+}
+.header{
+    padding-right: 1045px;
+}
+.button{
+    display: flex;
+    justify-content: end;
+    gap:8px;
+    padding-right: 25px;
+    margin-bottom: -59px;
+    height: 40px;
+}

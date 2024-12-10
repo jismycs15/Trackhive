@@ -1,0 +1,94 @@
+.First-div {
+    display: flex;
+    flex-direction: column;
+    width: 230px;
+    height: 80px;
+    /* gap: 8px; */
+}
+
+/* .name {
+    marginLeft:"10px";
+    padding: "5px";
+    display: flex;
+}
+.second{
+    marginBottom: "10px";
+    display: flex; } 
+        
+.button {
+    padding: "5px 10px" 
+}  
+.for{
+    margin-top: 100px;
+    background-color: azure;
+    display: flex;
+} */
+
+.for {
+   background-color: rgb(232, 239, 243);
+    width: 80%;
+    justify-content: center;
+    /* margin: auto; */
+    padding: 60px;
+    border-radius: 15px;
+}
+
+.main-div {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: center;
+    margin-left: -170px;
+}
+
+.outer-div {
+    width: 100%;
+    height: auto;
+    background-color: rgb(232, 227, 227);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: auto;
+    padding: 10px;
+    border-radius: 5px;
+    align-items: center;
+}
+
+
+.email {
+    height: 3vw;
+}
+
+.emailselect {
+    height: 32px;
+}
+.header{
+    display:flex;
+    align-items:center;
+    gap: 6px;
+    white-space: nowrap;
+    padding-left: 97px;
+    padding-top: 100px;
+   
+}
+.button{
+    display: flex;
+    justify-content:left;
+    gap:8px;
+    padding-right: 30px;
+    margin-bottom: -59px;
+    height: 40px;
+    margin-left: 43px;
+}
+.form{
+    background-color: white;
+    margin-left: -485px;
+    margin-top: 85px;
+    gap:8px;
+    width: 95%;
+    height: 170px;
+    padding-top: 40px;
+    margin-top: 30px;
+    margin-left: -48px;
+    border-radius: 10px;
+}
